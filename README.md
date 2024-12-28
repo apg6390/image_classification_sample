@@ -2,8 +2,8 @@
 An image classification sample with tensorflow coded using ChatGpt
 
 
-**Input Prompts for ChatGPT
-**
+**Input Prompts for ChatGPT**
+
 1) Write Python code of a neural network to solve the MNIST problem using Keras using fully connected layers and categorical crossentropy as the loss function without evaluating the model on the test set
 
 2) Change the loss function to be sparse categorical crossentropy
@@ -19,4 +19,8 @@ An image classification sample with tensorflow coded using ChatGpt
 
 **Output**
 Test loss: 0.04220328852534294, Test accuracy: 0.9896000027656555
+
+![Untitled](https://github.com/user-attachments/assets/4959f78b-558f-488e-9bac-c4126c71d354)
+
+![Untitled-1](https://github.com/user-attachments/assets/95b054b6-e037-4de6-9303-93089e016dfd)
 
